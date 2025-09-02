@@ -1,0 +1,5 @@
+{
+  "name": "Webpage Test Case Generator",
+  "description": "A tool that analyzes the HTML of a webpage to automatically generate comprehensive use cases and test scenarios, helping QA engineers and developers ensure application quality.",
+  "requestFramePermissions": []
+}
