@@ -100,7 +100,7 @@ function App() {
         </div>
       </main>
       <footer className="container mx-auto px-4 py-8 mt-auto text-center text-sm text-slate-500">
-        <p>Built with modern web technologies • {new Date().getFullYear()}</p>
+        <p>Built by Karthik Sivakumar • {new Date().getFullYear()}</p>
       </footer>
     </div>
   );
